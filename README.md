@@ -54,10 +54,11 @@ And then usually involve going much deeper than originally intended.
 Languages
 
 ```text
-C++         ███████████████████
-C#          ███████████████████
-Python      ███████████████████
-TypeScript  ███████████████████
+C++         
+C#          
+Python      
+TypeScript
+Rust  
 ```
 
 I tend to choose languages based on the problem.
