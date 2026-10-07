@@ -94,8 +94,6 @@ Certifications
 * **CompTIA A+**
 * **CompTIA CySA+**
 * **Cisco CCNA**
-* **Cisco CCNP**
-* **CISSP**
 
 ---
 
@@ -112,38 +110,3 @@ My GitHub is primarily a place for:
 * Software preservation projects
 * Experimental projects built while learning something new
 
-Some repositories are polished projects.
-
-Others are the result of me disappearing down a technical rabbit hole because I wanted to know how something worked.
-
-Both are equally likely.
-
----
-
- Philosophy
-
-I believe one of the best ways to learn technology is to **go below the abstraction layer**.
-
-Don't just learn that something works.
-
-Learn **why** it works.
-
-Understand what happens on the wire.
-Understand what happens in memory.
-Understand what the operating system is doing.
-Understand what assumptions the software is making.
-
-And when something isn't documented...
-
-**figure it out.**
-
----
-
-```cpp
-while (curious) {
-    investigate();
-    experiment();
-    break_things();
-    understand();
-}
-```
